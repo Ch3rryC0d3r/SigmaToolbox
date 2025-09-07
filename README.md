@@ -5,7 +5,7 @@ Great for scripting inside TurboWarp.
 
 ## 🚀 How to Use
 1. Open [TurboWarp](https://turbowarp.org/).
-2. Click the gear ⚙️ → **"Add Extension"** → **"Custom Extension"**.
+2. Click the bottom left button (that has like a 2 blocks and a "+" sign) → **"Add Extension"** → **"Custom Extension"**.
 3. You can load it two ways:
    - **By URL** → paste this link:  
      ```
