@@ -5,8 +5,13 @@ Great for scripting inside TurboWarp.
 
 ## 🚀 How to Use
 1. Open [TurboWarp](https://turbowarp.org/).
-2. Click the gear ⚙️ → **"Add Extension"** → **"Custom Extension (by URL)"**.
-3. Paste this link: https://raw.githubusercontent.com/Ch3rryC0d3r/SigmaToolbox/main/SigmaToolbox.js
+2. Click the gear ⚙️ → **"Add Extension"** → **"Custom Extension"**.
+3. You can load it two ways:
+   - **By URL** → paste this link:  
+     ```
+     https://raw.githubusercontent.com/Ch3rryC0d3r/SigmaToolbox/main/SigmaToolbox.js
+     ```
+   - **By Text** → copy the contents of `SigmaToolbox.js` and paste them directly into the box.
 4. That’s all ✅ If you have any feedback, just tell me!
 
 ## 👤 Links
